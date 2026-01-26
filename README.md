@@ -1,8 +1,7 @@
 <h1 align="center">🎙️ Manuel Míguez Liméns</h1>
-<h3 align="center">Técnico de Redes Junior · Comunicador Creativo</h3>
+<h3 align="center">Técnico de Redes Junior · Comunity Manager</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ASIR-Student-blue" alt="ASIR Student Badge"/>
   <img src="https://img.shields.io/badge/Linux-LPIC1%20Certified-green" alt="LPIC1 Badge"/>
   <img src="https://img.shields.io/badge/Cofradía-Communicator-orange" alt="Cofradía Badge"/>
   <img src="https://img.shields.io/badge/AfoutezaPodcast-Comunity Manager-purple" alt="Afouteza Badge"/>
