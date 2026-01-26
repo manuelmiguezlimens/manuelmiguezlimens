@@ -12,8 +12,8 @@
 
 ## 🧑‍💻 Sobre mí
 
-¡Hola! Soy Manuel, técnico de soporte N1 en Ednon y estudiante del ciclo superior de ASIR en Santiago de Compostela.  
-Me apasiona la tecnología, la comunicación y todo lo que implique optimizar sistemas, resolver problemas y dar voz a las comunidades gallegas.
+¡Hola! Soy Manuel, técnico de Redes Junior en Ednon.  
+Me apasiona la tecnología, la comunicación y todo lo que implique optimizar sistemas, y resolver problemas.
 
 🔹 **Sistemas y redes:** administración de Linux y Windows, virtualización, GNS3, servicios en red  
 🔹 **Comunicación y creatividad:** branding, copywriting, edición de vídeo, gestión de redes  
