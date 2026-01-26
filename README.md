@@ -47,7 +47,7 @@ Me apasiona la tecnología, la comunicación y todo lo que implique optimizar si
 - 🎧 Comunity Manager de [AfoutezaPodcast](https://www.instagram.com/afoutezapodcast/)  
 - 🧑‍💻 Técnico de redes junior en Ednon  
 - 🤗 Parte del equipo de comunicaciones de [ASANOG](https://asanog.org/)
-- 🧩 Comunicador en cofradías y proyectos musicales
+- 🧩 Webmaster cofradías y proyectos musicales
 
 ---
 
