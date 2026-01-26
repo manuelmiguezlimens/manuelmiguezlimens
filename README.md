@@ -1,5 +1,5 @@
 <h1 align="center">🎙️ Manuel Míguez Liméns</h1>
-<h3 align="center">Técnico de Soporte N1 · ASIR Student · Comunicador Creativo</h3>
+<h3 align="center">Técnico de Redes Junior · Comunicador Creativo</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ASIR-Student-blue" alt="ASIR Student Badge"/>
@@ -44,7 +44,7 @@ Me apasiona la tecnología, la comunicación y todo lo que implique optimizar si
 
 ## 🎯 En qué ando metido
 
-- 🎧 Fundador y creativo de [AfoutezaPodcast](https://www.instagram.com/afoutezapodcast/)  
+- 🎧 Comunity Manager de [AfoutezaPodcast](https://www.instagram.com/afoutezapodcast/)  
 - 🧑‍💻 Técnico de redes junior en Ednon  
 - 🤗 Parte del equipo de comunicaciones de [ASANOG](https://asanog.org/)
 - 🧩 Comunicador en cofradías y proyectos musicales
