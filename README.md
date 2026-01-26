@@ -26,6 +26,7 @@ Me apasiona la tecnología, la comunicación y todo lo que implique optimizar si
 ![Linux](https://img.shields.io/badge/Linux-CLI-informational)
 ![Windows](https://img.shields.io/badge/Windows-Server-informational)
 ![GNS3](https://img.shields.io/badge/GNS3-Network%20Simulations-informational)
+![GNS3](https://img.shields.io/badge/Cisco-Packet%20tracert-informational)
 ![Proxmox](https://img.shields.io/badge/Proxmox-Virtualization-informational)
 
 ### Desarrollo & Automatización
@@ -33,6 +34,7 @@ Me apasiona la tecnología, la comunicación y todo lo que implique optimizar si
 ![GitHub](https://img.shields.io/badge/GitHub-Desktop-informational)
 ![Python](https://img.shields.io/badge/Python-Básico-informational)
 ![HTML](https://img.shields.io/badge/HTML-CSS-informational)
+![Bash](https://img.shields.io/badge/Bash-scripting-informational)
 
 ### Comunicación & Branding
 ![Canva](https://img.shields.io/badge/Canva-Miniaturas-informational)
