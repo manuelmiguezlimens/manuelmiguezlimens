@@ -39,6 +39,7 @@ Me apasiona la tecnología, la comunicación y todo lo que implique optimizar si
 ![Canva](https://img.shields.io/badge/Canva-Miniaturas-informational)
 ![Audacity](https://img.shields.io/badge/Audacity-Podcast-informational)
 ![OBS](https://img.shields.io/badge/OBS-Studio-informational)
+![Filmora](https://img.shields.io/badge/Filmora-Studio-informational)
 
 ---
 
