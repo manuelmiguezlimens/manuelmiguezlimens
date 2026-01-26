@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/ASIR-Student-blue" alt="ASIR Student Badge"/>
   <img src="https://img.shields.io/badge/Linux-LPIC1%20Certified-green" alt="LPIC1 Badge"/>
   <img src="https://img.shields.io/badge/Cofradía-Communicator-orange" alt="Cofradía Badge"/>
-  <img src="https://img.shields.io/badge/AfoutezaPodcast-Founder-purple" alt="Afouteza Badge"/>
+  <img src="https://img.shields.io/badge/AfoutezaPodcast-Comunity Manager-purple" alt="Afouteza Badge"/>
 </p>
 
 ---
