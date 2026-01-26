@@ -44,10 +44,9 @@ Me apasiona la tecnología, la comunicación y todo lo que implique optimizar si
 
 ## 🎯 En qué ando metido
 
-- 🎧 Fundador y creativo de [AfoutezaPodcast](https://github.com/manuelmiguezlimens/AfoutezaPodcast)  
-- 🧑‍💻 Técnico de soporte N1 en Ednon  
-- 📚 Finalizando ASIR en IES San Clemente  
-- 🛠️ Refinando simulaciones de red en [Network-Simulations](https://github.com/manuelmiguezlimens/Network-Simulations)  
+- 🎧 Fundador y creativo de [AfoutezaPodcast](https://www.instagram.com/afoutezapodcast/)  
+- 🧑‍💻 Técnico de redes junior en Ednon  
+- 🤗 Parte del equipo de comunicaciones de [ASANOG](https://asanog.org/)
 - 🧩 Comunicador en cofradías y proyectos musicales
 
 ---
@@ -87,6 +86,4 @@ Me apasiona la tecnología, la comunicación y todo lo que implique optimizar si
 🌐 [LinkedIn](https://linkedin.com/in/manuelmiguezlimens)  
 💻 [GitHub](https://github.com/manuelmiguezlimens)
 
----
 
-<p align="center"><strong>Afouteza, técnica e corazón 💙</strong></p>
