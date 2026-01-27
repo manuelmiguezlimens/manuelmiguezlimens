@@ -11,6 +11,7 @@ la infraestructura tecnológica y la comunicación digital.
 Me apasiona entender cómo funcionan los sistemas por dentro, diseñar redes, automatizar procesos y, al mismo tiempo, crear proyectos digitales con impacto real en personas y comunidades.
 
 Trabajo con enfoque práctico, mentalidad de aprendizaje continuo y visión de crecimiento profesional 🚀
+
 ---
 
 ## 🧠 Áreas de especialización
