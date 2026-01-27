@@ -4,45 +4,63 @@
 
 ## 🧑‍💻 Sobre mí
 
-¡Hola! Soy Manuel, técnico de Redes Junior en Ednon.  
-Me apasiona la tecnología, la comunicación y todo lo que implique optimizar sistemas, y resolver problemas.
+Hola 👋, soy Manuel, técnico de redes junior en Ednon.
+Me muevo entre dos mundos que cada vez están más conectados:
+la infraestructura tecnológica y la comunicación digital.
 
-🔹 **Sistemas y redes:** administración de Linux y Windows, virtualización, GNS3, servicios en red  
-🔹 **Comunicación y creatividad:** branding, copywriting, edición de vídeo, gestión de redes  
-🔹 **Formación continua:** cursos en IA generativa, OSPF avanzado, prevención de riesgos
+Me apasiona entender cómo funcionan los sistemas por dentro, diseñar redes, automatizar procesos y, al mismo tiempo, crear proyectos digitales con impacto real en personas y comunidades.
 
+Trabajo con enfoque práctico, mentalidad de aprendizaje continuo y visión de crecimiento profesional 🚀
 ---
 
-## 🛠️ Mi stack técnico
+## 🧠 Áreas de especialización
 
-### Infraestructura & Soporte
-![Linux](https://img.shields.io/badge/Linux-CLI-informational)
-![Windows](https://img.shields.io/badge/Windows-Server-informational)
-![GNS3](https://img.shields.io/badge/GNS3-Network%20Simulations-informational)
-![GNS3](https://img.shields.io/badge/Cisco-Packet%20tracert-informational)
-![Proxmox](https://img.shields.io/badge/Proxmox-Virtualization-informational)
+### 🌐 Sistemas & Redes
 
-### Desarrollo & Automatización
-![Markdown](https://img.shields.io/badge/Markdown-Docs-informational)
-![GitHub](https://img.shields.io/badge/GitHub-Desktop-informational)
-![Python](https://img.shields.io/badge/Python-Básico-informational)
-![HTML](https://img.shields.io/badge/HTML-CSS-informational)
-![Bash](https://img.shields.io/badge/Bash-scripting-informational)
+- Administración de sistemas Linux y Windows
 
-### Comunicación & Branding
-![Canva](https://img.shields.io/badge/Canva-Miniaturas-informational)
-![Audacity](https://img.shields.io/badge/Audacity-Podcast-informational)
-![OBS](https://img.shields.io/badge/OBS-Studio-informational)
-![Filmora](https://img.shields.io/badge/Filmora-Studio-informational)
+- Redes y routing (OSPF, topologías, segmentación)
 
+- Virtualización y simulación (GNS3, Proxmox)
+
+- Servicios en red y arquitectura de infraestructura
+
+- Automatización y scripting
+
+### ⚙️ Desarrollo & Automatización
+
+- Bash scripting
+
+- Python (nivel básico)
+
+- Automatización de tareas
+
+- Documentación técnica
+
+- Control de versiones con Git/GitHub
+
+### 🎙️ Comunicación & Branding Digital
+
+- Gestión de redes sociales
+
+- Branding digital
+
+- Copywriting
+
+- Edición de vídeo y audio
+
+- Creación de contenido
+
+- Gestión de comunidades
 ---
 
-## 🎯 En qué ando metido
+## 🚀 Proyectos y actividad actual
 
+- 🧑‍💻 Técnico de Redes Junior en Ednon
 - 🎧 Comunity Manager de [AfoutezaPodcast](https://www.instagram.com/afoutezapodcast/)  
-- 🧑‍💻 Técnico de redes junior en Ednon  
 - 🤗 Parte del equipo de comunicaciones de [ASANOG](https://asanog.org/)
 - 🧩 Webmaster cofradías y proyectos musicales
+- 🧪 Desarrollo de laboratorios técnicos (sistemas, redes, ciberseguridad, automatización)
 
 ---
 
@@ -68,8 +86,17 @@ Me apasiona la tecnología, la comunicación y todo lo que implique optimizar si
 
 ## 🤝 Voluntariado
 
-- ASANOG – Ayudante de Comunicaciones y Eventos  
+- ASANOG – Comunicación, eventos y soporte digital
 - IES San Clemente – Ayudante de Biblioteca
+
+---
+
+## 🧭 Filosofía personal
+
+- Construir soluciones útiles.
+- Aprender todos los días.
+- Compartir conocimiento.
+- Crecer como profesional y como persona
 
 ---
 
