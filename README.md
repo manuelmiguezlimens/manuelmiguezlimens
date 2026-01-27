@@ -1,11 +1,4 @@
-<h1 align="center">🎙️ Manuel Míguez Liméns</h1>
-<h3 align="center">Técnico de Redes Junior · Comunity Manager · WebMaster</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-LPIC1%20Certified-green" alt="LPIC1 Badge"/>
-  <img src="https://img.shields.io/badge/webmaster-orange" alt="Cofradía Badge"/>
-  <img src="https://img.shields.io/badge/AfoutezaPodcast-Comunity Manager-purple" alt="Afouteza Badge"/>
-</p>
+<h1 align="center">👨‍💻 Manuel Míguez Liméns</h1> <h3 align="center">Técnico de Redes Junior · Infraestructura · Sistemas · Comunicación Digital</h3> <p align="center"> <img src="https://img.shields.io/badge/Linux-LPIC--1%20Certified-green" /> <img src="https://img.shields.io/badge/Networking-Junior%20Engineer-blue" /> <img src="https://img.shields.io/badge/Automation-Scripting-yellow" /> <img src="https://img.shields.io/badge/Community%20Manager-Digital%20Media-purple" /> </p>
 
 ---
 
