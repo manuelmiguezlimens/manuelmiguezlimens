@@ -59,7 +59,6 @@ Trabajo con enfoque práctico, mentalidad de aprendizaje continuo y visión de c
 
 - 🧑‍💻 Técnico de Redes Junior en Ednon
 - 🎧 Comunity Manager de [AfoutezaPodcast](https://www.instagram.com/afoutezapodcast/)  
-- 🤗 Parte del equipo de comunicaciones de [ASANOG](https://asanog.org/)
 - 🎧 Comunity Manager de [Pulseras Amarillas](https://www.instagram.com/pulserasamarillas)  
 - 🧩 Webmaster cofradías y proyectos musicales
 - 🧪 Desarrollo de laboratorios técnicos (sistemas, redes, ciberseguridad, automatización)
